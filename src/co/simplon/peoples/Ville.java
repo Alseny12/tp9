@@ -1,5 +1,5 @@
 package co.simplon.peoples;
-
+//ui
 public class Ville {
 	private String nom;
 	 private String pays; // nom du Pays private 

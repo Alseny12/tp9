@@ -1,5 +1,5 @@
 package co.simplon.peoples;
-
+//op
 public class Employer extends Personne{
 	private String entreprise;
 	private int salaire;
